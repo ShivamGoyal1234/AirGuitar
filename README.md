@@ -1,0 +1,2 @@
+# AirGuitar
+Javascript functionality
